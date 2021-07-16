@@ -25,10 +25,18 @@
     <Filter Include="Main">
       <UniqueIdentifier>{bcf49ed0-5bd7-4e62-8ebd-b86ef8642bb1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Model\64 Number">
+      <UniqueIdentifier>{ed183b1a-99f2-47f0-94ae-50eaa3259ce1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="64_number.h">
+      <Filter>Model\64 Number</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
